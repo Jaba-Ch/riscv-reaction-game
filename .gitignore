@@ -1,0 +1,30 @@
+# Build artifacts (C)
+*.exe
+*.o
+*.obj
+*.out
+*.elf
+*.bin
+*.hex
+*.map
+*.lst
+*.a
+*.lib
+*.dll
+*.pdb
+*.ilk
+*.exp
+
+# IDE / editor
+.vscode/
+.vs/
+.idea/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Office temp files
+~$*
